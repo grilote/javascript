@@ -19,7 +19,7 @@ Dica de video: http://youtu.be/Z1GNW_woXI0?si=rT8A-7amLsIxuokW
 "algoritmo" (receita do bolo")
 conceito: 
             variáveis
-entrada - processamento - saída
+entrada - processamento - saínpmda
 __________________________________________________________________________________
 
 GIT e GITHUB
@@ -80,6 +80,8 @@ npm está relacionado a pasta do projeto ou seja os pacotes são instalados na r
 
 npm -v (versão do npm)
 npm ls (listar pacotes instalados)
+npm i nome_do_pacote (instalar um pacote)
+npm init (iniciar um novo projeto javaScript)
 
 npm init (iniciar um novo projeto JavaScript)
    |____ package.json
