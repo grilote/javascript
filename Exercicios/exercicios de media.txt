@@ -1,0 +1,16 @@
+
+	num1 + num2 + num3
+media= ____________________
+		3
+
+//variáveis
+media, num1,num2, num3
+
+//entrada
+num1, num2, num3
+
+//processamento
+media = (num1 + num2 + num3) / 3
+
+//saída
+media
