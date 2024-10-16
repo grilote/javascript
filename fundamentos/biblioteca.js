@@ -1,5 +1,5 @@
 /**
- * Exemplo d euso de pacote externos("bibliotecas")
+ * Exemplo de uso de pacote externos("bibliotecas")
  * @author Luiz Fernando
  */
 
