@@ -9,6 +9,12 @@ let a, b, opcao
 do{
 
 console.clear()
+console.log("")
+console.log(" _____     _         _       _             ")
+console.log("|     |___| |___ _ _| |___ _| |___ ___ ___ ")
+console.log("|   --| .'| |  _| | | | .'| . | . |  _| .'|")
+console.log("|_____|__,|_|___|___|_|__,|___|___|_| |__,|")
+console.log("")
 console.log("Calculadora")
 
 
